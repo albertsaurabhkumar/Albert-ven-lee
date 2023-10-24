@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "cwd": "${workspaceFolder}",
+            "executable": "./build/bin/S32_App.elf",
+            "name": "JDebug",
+            "request": "launch",
+            "type": "cortex-debug",
+            "device": "S32K144",
+            "interface": "jtag",
+            "runToEntryPoint": "Reset_Handler",
+            "showDevDebugOutput": "none",
+            "servertype": "jlink",
+            "svdFile": "${workspaceFolder}/tools/S32K144.svd"
+        }
+    ]
+}

@@ -1,2 +1,2 @@
-# S32_App
-Config files for my GitHub profile.
+# S32_Bootloader
+Readme file for S32K144 based bootlader

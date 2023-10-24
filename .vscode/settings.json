@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "common.h": "c"
+    },
+    "cortex-debug.liveWatchRefreshRate": 250,
+    "cortex-debug.JLinkGDBServerPath.windows": "C:/Program Files (x86)/SEGGER/JLink/JLinkGDBServerCL.exe",
+    "cortex-debug.armToolchainPath.windows": "C:/S32_App/tools/CC/gcc-10.3/bin",
+    "cortex-debug.variableUseNaturalFormat": true
+}
