@@ -4,7 +4,7 @@
         {
             "cwd": "${workspaceFolder}",
             "executable": "./build/bin/S32_App.elf",
-            "name": "JDebug",
+            "name": "JDebug_App",
             "request": "launch",
             "type": "cortex-debug",
             "device": "S32K144",
@@ -12,7 +12,22 @@
             "runToEntryPoint": "Reset_Handler",
             "showDevDebugOutput": "none",
             "servertype": "jlink",
-            "svdFile": "${workspaceFolder}/tools/S32K144.svd"
+            "svdFile": "${workspaceFolder}/tools/S32K144.svd",
+            "svdPath": "${workspaceFolder}/tools/"
+        },
+        {
+            "cwd": "${workspaceFolder}",
+            "executable": "./build/bin/S32_BL.elf",
+            "name": "JDebug_BL",
+            "request": "launch",
+            "type": "cortex-debug",
+            "device": "S32K144",
+            "interface": "jtag",
+            "runToEntryPoint": "Reset_Handler",
+            "showDevDebugOutput": "none",
+            "servertype": "jlink",
+            "svdFile": "${workspaceFolder}/tools/S32K144.svd",
+            "svdPath": "${workspaceFolder}/tools/"
         }
     ]
 }

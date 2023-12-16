@@ -12,6 +12,13 @@
 #include "interrupt.h"
 #include "startup.h"
 
+uint32_t flashConfig[] __attribute__ ((section (".flashConfig"))) = {
+ (uint32_t) 0xFFFFFFFF,
+ (uint32_t) 0xFFFFFFFF,
+ (uint32_t) 0xFFFFFFFF,
+ (uint32_t) 0xFFFF7FFE
+};
+
 void Reset_Handler(){
     initData();
     initbss();
