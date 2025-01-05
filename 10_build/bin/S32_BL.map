@@ -1,0 +1,761 @@
+
+Discarded input sections
+
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/analogInp.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/clock.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/clock.o
+ .debug_macro   0x00000000       0x19 ../build/obj/clock.o
+ .debug_macro   0x00000000       0x22 ../build/obj/clock.o
+ .debug_macro   0x00000000       0x8e ../build/obj/clock.o
+ .debug_macro   0x00000000       0x51 ../build/obj/clock.o
+ .debug_macro   0x00000000      0x103 ../build/obj/clock.o
+ .debug_macro   0x00000000       0x6a ../build/obj/clock.o
+ .debug_macro   0x00000000      0x1df ../build/obj/clock.o
+ .debug_macro   0x00000000       0x22 ../build/obj/clock.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/clock.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/flash.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/flash.o
+ .debug_macro   0x00000000       0x19 ../build/obj/flash.o
+ .debug_macro   0x00000000       0x22 ../build/obj/flash.o
+ .debug_macro   0x00000000       0x8e ../build/obj/flash.o
+ .debug_macro   0x00000000       0x51 ../build/obj/flash.o
+ .debug_macro   0x00000000      0x103 ../build/obj/flash.o
+ .debug_macro   0x00000000       0x6a ../build/obj/flash.o
+ .debug_macro   0x00000000      0x1df ../build/obj/flash.o
+ .debug_macro   0x00000000       0x22 ../build/obj/flash.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/flash.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/gpio.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/gpio.o
+ .debug_macro   0x00000000       0x19 ../build/obj/gpio.o
+ .debug_macro   0x00000000       0x22 ../build/obj/gpio.o
+ .debug_macro   0x00000000       0x8e ../build/obj/gpio.o
+ .debug_macro   0x00000000       0x51 ../build/obj/gpio.o
+ .debug_macro   0x00000000      0x103 ../build/obj/gpio.o
+ .debug_macro   0x00000000       0x6a ../build/obj/gpio.o
+ .debug_macro   0x00000000      0x1df ../build/obj/gpio.o
+ .debug_macro   0x00000000       0x22 ../build/obj/gpio.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/gpio.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/hsd6500.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/hsd6500.o
+ .debug_macro   0x00000000       0x19 ../build/obj/hsd6500.o
+ .debug_macro   0x00000000       0x22 ../build/obj/hsd6500.o
+ .debug_macro   0x00000000       0x8e ../build/obj/hsd6500.o
+ .debug_macro   0x00000000       0x51 ../build/obj/hsd6500.o
+ .debug_macro   0x00000000      0x103 ../build/obj/hsd6500.o
+ .debug_macro   0x00000000       0x6a ../build/obj/hsd6500.o
+ .debug_macro   0x00000000      0x1df ../build/obj/hsd6500.o
+ .debug_macro   0x00000000       0x22 ../build/obj/hsd6500.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/hsd6500.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/interrupt.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/interrupt.o
+ .debug_macro   0x00000000       0x19 ../build/obj/interrupt.o
+ .debug_macro   0x00000000       0x22 ../build/obj/interrupt.o
+ .debug_macro   0x00000000       0x8e ../build/obj/interrupt.o
+ .debug_macro   0x00000000       0x51 ../build/obj/interrupt.o
+ .debug_macro   0x00000000      0x103 ../build/obj/interrupt.o
+ .debug_macro   0x00000000       0x6a ../build/obj/interrupt.o
+ .debug_macro   0x00000000      0x1df ../build/obj/interrupt.o
+ .debug_macro   0x00000000       0x22 ../build/obj/interrupt.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/interrupt.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/main.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/main.o
+ .debug_macro   0x00000000       0x19 ../build/obj/main.o
+ .debug_macro   0x00000000       0x22 ../build/obj/main.o
+ .debug_macro   0x00000000       0x8e ../build/obj/main.o
+ .debug_macro   0x00000000       0x51 ../build/obj/main.o
+ .debug_macro   0x00000000      0x103 ../build/obj/main.o
+ .debug_macro   0x00000000       0x6a ../build/obj/main.o
+ .debug_macro   0x00000000      0x1df ../build/obj/main.o
+ .debug_macro   0x00000000       0x22 ../build/obj/main.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/main.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/port.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/port.o
+ .debug_macro   0x00000000       0x19 ../build/obj/port.o
+ .debug_macro   0x00000000       0x22 ../build/obj/port.o
+ .debug_macro   0x00000000       0x8e ../build/obj/port.o
+ .debug_macro   0x00000000       0x51 ../build/obj/port.o
+ .debug_macro   0x00000000      0x103 ../build/obj/port.o
+ .debug_macro   0x00000000       0x6a ../build/obj/port.o
+ .debug_macro   0x00000000      0x1df ../build/obj/port.o
+ .debug_macro   0x00000000       0x22 ../build/obj/port.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/port.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/spi.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/spi.o
+ .debug_macro   0x00000000       0x19 ../build/obj/spi.o
+ .debug_macro   0x00000000       0x22 ../build/obj/spi.o
+ .debug_macro   0x00000000       0x8e ../build/obj/spi.o
+ .debug_macro   0x00000000       0x51 ../build/obj/spi.o
+ .debug_macro   0x00000000      0x103 ../build/obj/spi.o
+ .debug_macro   0x00000000       0x6a ../build/obj/spi.o
+ .debug_macro   0x00000000      0x1df ../build/obj/spi.o
+ .debug_macro   0x00000000       0x22 ../build/obj/spi.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/spi.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/startup.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/startup.o
+ .debug_macro   0x00000000       0x19 ../build/obj/startup.o
+ .debug_macro   0x00000000       0x22 ../build/obj/startup.o
+ .debug_macro   0x00000000       0x8e ../build/obj/startup.o
+ .debug_macro   0x00000000       0x51 ../build/obj/startup.o
+ .debug_macro   0x00000000      0x103 ../build/obj/startup.o
+ .debug_macro   0x00000000       0x6a ../build/obj/startup.o
+ .debug_macro   0x00000000      0x1df ../build/obj/startup.o
+ .debug_macro   0x00000000       0x22 ../build/obj/startup.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/startup.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/uja1167.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/uja1167.o
+ .debug_macro   0x00000000       0x19 ../build/obj/uja1167.o
+ .debug_macro   0x00000000       0x22 ../build/obj/uja1167.o
+ .debug_macro   0x00000000       0x8e ../build/obj/uja1167.o
+ .debug_macro   0x00000000       0x51 ../build/obj/uja1167.o
+ .debug_macro   0x00000000      0x103 ../build/obj/uja1167.o
+ .debug_macro   0x00000000       0x6a ../build/obj/uja1167.o
+ .debug_macro   0x00000000      0x1df ../build/obj/uja1167.o
+ .debug_macro   0x00000000       0x22 ../build/obj/uja1167.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/uja1167.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/vnh7040.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/vnh7040.o
+ .debug_macro   0x00000000       0x19 ../build/obj/vnh7040.o
+ .debug_macro   0x00000000       0x22 ../build/obj/vnh7040.o
+ .debug_macro   0x00000000       0x8e ../build/obj/vnh7040.o
+ .debug_macro   0x00000000       0x51 ../build/obj/vnh7040.o
+ .debug_macro   0x00000000      0x103 ../build/obj/vnh7040.o
+ .debug_macro   0x00000000       0x6a ../build/obj/vnh7040.o
+ .debug_macro   0x00000000      0x1df ../build/obj/vnh7040.o
+ .debug_macro   0x00000000       0x22 ../build/obj/vnh7040.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/vnh7040.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .group         0x00000000        0xc ../build/obj/wdog.o
+ .debug_macro   0x00000000      0xa5a ../build/obj/wdog.o
+ .debug_macro   0x00000000       0x19 ../build/obj/wdog.o
+ .debug_macro   0x00000000       0x22 ../build/obj/wdog.o
+ .debug_macro   0x00000000       0x8e ../build/obj/wdog.o
+ .debug_macro   0x00000000       0x51 ../build/obj/wdog.o
+ .debug_macro   0x00000000      0x103 ../build/obj/wdog.o
+ .debug_macro   0x00000000       0x6a ../build/obj/wdog.o
+ .debug_macro   0x00000000      0x1df ../build/obj/wdog.o
+ .debug_macro   0x00000000       0x22 ../build/obj/wdog.o
+ .debug_macro   0x00000000     0xdf8d ../build/obj/wdog.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+VECTAB           0x00000000         0x00000400         xr
+FLASH_CONFIG     0x00000400         0x00000410         xr
+FLASH            0x00000410         0x0000fbf0         xr
+SRAM1            0x1fff8000         0x00008000         xrw
+SRAM2            0x20000000         0x00007000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../build/obj/analogInp.o
+LOAD ../build/obj/clock.o
+LOAD ../build/obj/flash.o
+LOAD ../build/obj/gpio.o
+LOAD ../build/obj/hsd6500.o
+LOAD ../build/obj/interrupt.o
+LOAD ../build/obj/main.o
+LOAD ../build/obj/port.o
+LOAD ../build/obj/spi.o
+LOAD ../build/obj/startup.o
+LOAD ../build/obj/uja1167.o
+LOAD ../build/obj/vnh7040.o
+LOAD ../build/obj/wdog.o
+
+.intvec         0x00000000      0x400
+                0x00000000                _intvec_start_ = .
+ *(.intvec)
+ .intvec        0x00000000      0x400 ../build/obj/interrupt.o
+                0x00000000                vectorTable
+                0x00000400                . = ALIGN (0x4)
+                0x00000400                _intvec_end_ = .
+
+.flashConfig    0x00000400       0x10
+ *(.flashConfig)
+ .flashConfig   0x00000400       0x10 ../build/obj/startup.o
+                0x00000400                flashConfig
+                0x00000410                . = ALIGN (0x4)
+
+.text           0x00000410      0xb8c
+                0x00000410                _stext = .
+ *(.text)
+ .text          0x00000410       0xe8 ../build/obj/analogInp.o
+                0x00000410                ADC_Init
+                0x00000450                readADC
+                0x000004b4                GetAnalogVal
+ .text          0x000004f8       0xe4 ../build/obj/clock.o
+                0x000004f8                initClk
+                0x00000548                CLK_Enable
+ .text          0x000005dc      0x1e0 ../build/obj/flash.o
+                0x000005dc                CommandSequence
+                0x00000618                Read1sBlock
+                0x00000634                Read1sSection
+                0x00000650                ProgramCheck
+                0x0000066c                ProgramPhrase
+                0x00000688                EraseFlashBlock
+                0x000006a4                EraseFlashSector
+                0x000006c0                ProgramSection
+                0x000006dc                Read1sAllBlocks
+                0x000006f8                ReadOnce
+                0x00000714                ProgramOnce
+                0x00000730                EraseAllBlocks
+                0x0000074c                VerifyBackdoorAccessKey
+                0x00000768                EraseAllBlocksUnsecure
+                0x00000784                ProgramPartition
+                0x000007a0                SetFlexRAM
+ .text          0x000007bc       0xc6 ../build/obj/gpio.o
+                0x000007bc                ToggleGPIO
+                0x000007e4                SetGPIO
+                0x0000080c                ClearGPIO
+                0x00000834                DataDirectionGPIO
+                0x0000085c                DataOutGPIO
+ *fill*         0x00000882        0x2 
+ .text          0x00000884      0x108 ../build/obj/hsd6500.o
+                0x00000884                hsd6500_TxRx
+                0x00000910                hsd6500_Init
+                0x00000950                hsd6500_GetID
+                0x0000096e                hsd6500_GetStatus
+ .text          0x0000098c       0x3c ../build/obj/interrupt.o
+                0x0000098c                Reserved54_IRQHandler
+                0x0000098c                DMA1_IRQHandler
+                0x0000098c                Reserved88_IRQHandler
+                0x0000098c                CAN0_ORed_IRQHandler
+                0x0000098c                FLEXIO_IRQHandler
+                0x0000098c                Reserved86_IRQHandler
+                0x0000098c                Reserved103_IRQHandler
+                0x0000098c                FTM1_Ch0_Ch1_IRQHandler
+                0x0000098c                FTM2_Ovf_Reload_IRQHandler
+                0x0000098c                Reserved50_IRQHandler
+                0x0000098c                FTFC_Fault_IRQHandler
+                0x0000098c                FTM0_Ch6_Ch7_IRQHandler
+                0x0000098c                DMA6_IRQHandler
+                0x0000098c                Reserved114_IRQHandler
+                0x0000098c                PORTC_IRQHandler
+                0x0000098c                Reserved89_IRQHandler
+                0x0000098c                ERM_double_fault_IRQHandler
+                0x0000098c                DMA2_IRQHandler
+                0x0000098c                Reserved59_IRQHandler
+                0x0000098c                LPIT0_Ch0_IRQHandler
+                0x0000098c                Reserved99_IRQHandler
+                0x0000098c                FTM3_Ch6_Ch7_IRQHandler
+                0x0000098c                CAN2_ORed_0_15_MB_IRQHandler
+                0x0000098c                LPIT0_Ch3_IRQHandler
+                0x0000098c                Reserved92_IRQHandler
+                0x0000098c                FTM0_Ch4_Ch5_IRQHandler
+                0x0000098c                CAN1_Error_IRQHandler
+                0x0000098c                FTM3_Ch0_Ch1_IRQHandler
+                0x0000098c                SWI_IRQHandler
+                0x0000098c                ADC0_IRQHandler
+                0x0000098c                FTM2_Ch4_Ch5_IRQHandler
+                0x0000098c                Reserved52_IRQHandler
+                0x0000098c                FTM0_Ovf_Reload_IRQHandler
+                0x0000098c                DefaultISR
+                0x0000098c                DMA9_IRQHandler
+                0x0000098c                Reserved58_IRQHandler
+                0x0000098c                CAN1_ORed_0_15_MB_IRQHandler
+                0x0000098c                FTM1_Ch2_Ch3_IRQHandler
+                0x0000098c                DMA14_IRQHandler
+                0x0000098c                Reserved82_IRQHandler
+                0x0000098c                CAN0_ORed_16_31_MB_IRQHandler
+                0x0000098c                LPI2C0_Slave_IRQHandler
+                0x0000098c                Reserved71_IRQHandler
+                0x0000098c                PORTD_IRQHandler
+                0x0000098c                Reserved69_IRQHandler
+                0x0000098c                PORTB_IRQHandler
+                0x0000098c                Reserved70_IRQHandler
+                0x0000098c                ADC1_IRQHandler
+                0x0000098c                FTM2_Ch2_Ch3_IRQHandler
+                0x0000098c                DefaultHandler
+                0x0000098c                Reserved53_IRQHandler
+                0x0000098c                DMA5_IRQHandler
+                0x0000098c                RTC_IRQHandler
+                0x0000098c                PDB0_IRQHandler
+                0x0000098c                FTM2_Ch6_Ch7_IRQHandler
+                0x0000098c                FTM3_Ch2_Ch3_IRQHandler
+                0x0000098c                FTM2_Ch0_Ch1_IRQHandler
+                0x0000098c                LPSPI1_IRQHandler
+                0x0000098c                LPUART1_RxTx_IRQHandler
+                0x0000098c                RTC_Seconds_IRQHandler
+                0x0000098c                CAN2_ORed_IRQHandler
+                0x0000098c                Reserved72_IRQHandler
+                0x0000098c                Reserved110_IRQHandler
+                0x0000098c                DMA11_IRQHandler
+                0x0000098c                Reserved107_IRQHandler
+                0x0000098c                Read_Collision_IRQHandler
+                0x0000098c                CAN2_Error_IRQHandler
+                0x0000098c                FTFC_IRQHandler
+                0x0000098c                DMA7_IRQHandler
+                0x0000098c                FTM1_Ch6_Ch7_IRQHandler
+                0x0000098c                Reserved105_IRQHandler
+                0x0000098c                LPIT0_Ch1_IRQHandler
+                0x0000098c                FTM1_Ch4_Ch5_IRQHandler
+                0x0000098c                FTM3_Ovf_Reload_IRQHandler
+                0x0000098c                LPUART2_RxTx_IRQHandler
+                0x0000098c                LPSPI0_IRQHandler
+                0x0000098c                WDOG_EWM_IRQHandler
+                0x0000098c                CMP0_IRQHandler
+                0x0000098c                Reserved90_IRQHandler
+                0x0000098c                Reserved83_IRQHandler
+                0x0000098c                FTM0_Fault_IRQHandler
+                0x0000098c                Reserved48_IRQHandler
+                0x0000098c                CAN0_Wake_Up_IRQHandler
+                0x0000098c                ERM_single_fault_IRQHandler
+                0x0000098c                FTM2_Fault_IRQHandler
+                0x0000098c                FTM0_Ch2_Ch3_IRQHandler
+                0x0000098c                DMA13_IRQHandler
+                0x0000098c                FTM0_Ch0_Ch1_IRQHandler
+                0x0000098c                FTM3_Fault_IRQHandler
+                0x0000098c                RCM_IRQHandler
+                0x0000098c                DMA3_IRQHandler
+                0x0000098c                Reserved100_IRQHandler
+                0x0000098c                DMA0_IRQHandler
+                0x0000098c                Reserved91_IRQHandler
+                0x0000098c                CAN1_ORed_IRQHandler
+                0x0000098c                DMA15_IRQHandler
+                0x0000098c                SCG_IRQHandler
+                0x0000098c                PDB1_IRQHandler
+                0x0000098c                Reserved81_IRQHandler
+                0x0000098c                Reserved46_IRQHandler
+                0x0000098c                Reserved45_IRQHandler
+                0x0000098c                CAN0_Error_IRQHandler
+                0x0000098c                Reserved112_IRQHandler
+                0x0000098c                LPI2C0_Master_IRQHandler
+                0x0000098c                DMA4_IRQHandler
+                0x0000098c                FTM1_Fault_IRQHandler
+                0x0000098c                Reserved106_IRQHandler
+                0x0000098c                DMA_Error_IRQHandler
+                0x0000098c                LVD_LVW_IRQHandler
+                0x0000098c                LPIT0_Ch2_IRQHandler
+                0x0000098c                PORTA_IRQHandler
+                0x0000098c                MCM_IRQHandler
+                0x0000098c                LPSPI2_IRQHandler
+                0x0000098c                DMA12_IRQHandler
+                0x0000098c                FTM3_Ch4_Ch5_IRQHandler
+                0x0000098c                CAN0_ORed_0_15_MB_IRQHandler
+                0x0000098c                LPUART0_RxTx_IRQHandler
+                0x0000098c                PORTE_IRQHandler
+                0x0000098c                LPTMR0_IRQHandler
+                0x0000098c                DMA10_IRQHandler
+                0x0000098c                Reserved87_IRQHandler
+                0x0000098c                FTM1_Ovf_Reload_IRQHandler
+                0x0000098c                DMA8_IRQHandler
+                0x0000098c                Reserved93_IRQHandler
+                0x0000098c                Reserved113_IRQHandler
+                0x00000992                NMI_Handler
+                0x00000998                HardFault_Handler
+                0x0000099e                MemManage_Handler
+                0x000009a4                BusFault_Handler
+                0x000009aa                UsageFault_Handler
+                0x000009b0                SVC_Handler
+                0x000009b6                DebugMon_Handler
+                0x000009bc                PendSV_Handler
+                0x000009c2                SysTick_Handler
+ .text          0x000009c8      0x118 ../build/obj/main.o
+                0x000009c8                delay
+                0x000009f4                JumpToApp
+                0x00000a34                main
+ .text          0x00000ae0       0x90 ../build/obj/port.o
+                0x00000ae0                PortPCR
+                0x00000b02                PORT_SpiPins
+ .text          0x00000b70      0x23c ../build/obj/spi.o
+                0x00000b70                SPI_GetVersion
+                0x00000ba4                SPI_GetFIFOSize
+                0x00000bd0                SPI_FlushFIFOs
+                0x00000bec                SPI_GetStatus
+                0x00000c0c                SPI_Init
+                0x00000cfc                SPI_Reset
+                0x00000d18                SPI_Disable
+                0x00000d34                SPI_IsBusy
+                0x00000d54                SPI_TxRxHalfWord
+ .text          0x00000dac       0x78 ../build/obj/startup.o
+                0x00000dac                Reset_Handler
+                0x00000dba                initDataNbss
+ .text          0x00000e24       0xc4 ../build/obj/uja1167.o
+                0x00000e24                uja1167_GetID
+                0x00000e54                uja1167_GetStatus
+                0x00000e84                uja1167_GetMode
+                0x00000eb4                uja1167_SetMode
+ .text          0x00000ee8        0x0 ../build/obj/vnh7040.o
+ .text          0x00000ee8       0x54 ../build/obj/wdog.o
+                0x00000ee8                DisableWDOG
+                0x00000f14                RefreshWDOG
+                0x00000f30                CongiWDOG
+ *(.text*)
+ *(.rodata)
+ .rodata        0x00000f3c       0x60 ../build/obj/spi.o
+                0x00000f3c                spiConfig
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x00000f9c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000f9c        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x00000f9c                . = ALIGN (0x4)
+                0x00000f9c                _etext = .
+
+.vfp11_veneer   0x00000f9c        0x0
+ .vfp11_veneer  0x00000f9c        0x0 linker stubs
+
+.v4_bx          0x00000f9c        0x0
+ .v4_bx         0x00000f9c        0x0 linker stubs
+
+.iplt           0x00000f9c        0x0
+ .iplt          0x00000f9c        0x0 ../build/obj/analogInp.o
+
+.rel.dyn        0x00000f9c        0x0
+ .rel.iplt      0x00000f9c        0x0 ../build/obj/analogInp.o
+
+.data           0x1fff8000        0x8 load address 0x00000f9c
+                0x1fff8000                _sdata_ram = .
+ *(.data)
+ .data          0x1fff8000        0x0 ../build/obj/analogInp.o
+ .data          0x1fff8000        0x0 ../build/obj/clock.o
+ .data          0x1fff8000        0x0 ../build/obj/flash.o
+ .data          0x1fff8000        0x0 ../build/obj/gpio.o
+ .data          0x1fff8000        0x0 ../build/obj/hsd6500.o
+ .data          0x1fff8000        0x0 ../build/obj/interrupt.o
+ .data          0x1fff8000        0x8 ../build/obj/main.o
+                0x1fff8000                PortBView
+                0x1fff8004                PortEView
+ .data          0x1fff8008        0x0 ../build/obj/port.o
+ .data          0x1fff8008        0x0 ../build/obj/spi.o
+ .data          0x1fff8008        0x0 ../build/obj/startup.o
+ .data          0x1fff8008        0x0 ../build/obj/uja1167.o
+ .data          0x1fff8008        0x0 ../build/obj/vnh7040.o
+ .data          0x1fff8008        0x0 ../build/obj/wdog.o
+                0x1fff8008                . = ALIGN (0x4)
+                0x1fff8008                _edata_ram = .
+
+.igot.plt       0x1fff8008        0x0 load address 0x00000fa4
+ .igot.plt      0x1fff8008        0x0 ../build/obj/analogInp.o
+
+.bss            0x1fff8008       0x10 load address 0x00000fa4
+                0x1fff8008                _bss_start_ = .
+ *(.bss)
+ .bss           0x1fff8008        0x0 ../build/obj/analogInp.o
+ .bss           0x1fff8008        0x0 ../build/obj/clock.o
+ .bss           0x1fff8008        0x0 ../build/obj/flash.o
+ .bss           0x1fff8008        0x0 ../build/obj/gpio.o
+ .bss           0x1fff8008        0x1 ../build/obj/hsd6500.o
+ .bss           0x1fff8009        0x0 ../build/obj/interrupt.o
+ *fill*         0x1fff8009        0x3 
+ .bss           0x1fff800c        0xc ../build/obj/main.o
+                0x1fff800c                adcResult
+                0x1fff8010                dlyCnt
+                0x1fff8014                counter
+ .bss           0x1fff8018        0x0 ../build/obj/port.o
+ .bss           0x1fff8018        0x0 ../build/obj/spi.o
+ .bss           0x1fff8018        0x0 ../build/obj/startup.o
+ .bss           0x1fff8018        0x0 ../build/obj/uja1167.o
+ .bss           0x1fff8018        0x0 ../build/obj/vnh7040.o
+ .bss           0x1fff8018        0x0 ../build/obj/wdog.o
+ *(.bss*)
+ *(.common)
+ *(.common*)
+                0x1fff8018                . = ALIGN (0x4)
+                0x1fff8018                _bss_end_ = .
+OUTPUT(../build/bin/S32_BL.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x2b4c
+ .debug_info    0x00000000      0x3ef ../build/obj/analogInp.o
+ .debug_info    0x000003ef      0x304 ../build/obj/clock.o
+ .debug_info    0x000006f3      0x2e8 ../build/obj/flash.o
+ .debug_info    0x000009db      0x2f7 ../build/obj/gpio.o
+ .debug_info    0x00000cd2      0x44f ../build/obj/hsd6500.o
+ .debug_info    0x00001121      0x15e ../build/obj/interrupt.o
+ .debug_info    0x0000127f      0x8f9 ../build/obj/main.o
+ .debug_info    0x00001b78      0x2de ../build/obj/port.o
+ .debug_info    0x00001e56      0x64e ../build/obj/spi.o
+ .debug_info    0x000024a4      0x160 ../build/obj/startup.o
+ .debug_info    0x00002604      0x3ce ../build/obj/uja1167.o
+ .debug_info    0x000029d2       0x68 ../build/obj/vnh7040.o
+ .debug_info    0x00002a3a      0x112 ../build/obj/wdog.o
+
+.debug_abbrev   0x00000000      0xd56
+ .debug_abbrev  0x00000000      0x139 ../build/obj/analogInp.o
+ .debug_abbrev  0x00000139      0x117 ../build/obj/clock.o
+ .debug_abbrev  0x00000250       0xbb ../build/obj/flash.o
+ .debug_abbrev  0x0000030b       0xf6 ../build/obj/gpio.o
+ .debug_abbrev  0x00000401      0x123 ../build/obj/hsd6500.o
+ .debug_abbrev  0x00000524       0x7b ../build/obj/interrupt.o
+ .debug_abbrev  0x0000059f      0x225 ../build/obj/main.o
+ .debug_abbrev  0x000007c4       0xff ../build/obj/port.o
+ .debug_abbrev  0x000008c3      0x1fd ../build/obj/spi.o
+ .debug_abbrev  0x00000ac0       0xc0 ../build/obj/startup.o
+ .debug_abbrev  0x00000b80      0x112 ../build/obj/uja1167.o
+ .debug_abbrev  0x00000c92       0x29 ../build/obj/vnh7040.o
+ .debug_abbrev  0x00000cbb       0x9b ../build/obj/wdog.o
+
+.debug_aranges  0x00000000      0x198
+ .debug_aranges
+                0x00000000       0x20 ../build/obj/analogInp.o
+ .debug_aranges
+                0x00000020       0x20 ../build/obj/clock.o
+ .debug_aranges
+                0x00000040       0x20 ../build/obj/flash.o
+ .debug_aranges
+                0x00000060       0x20 ../build/obj/gpio.o
+ .debug_aranges
+                0x00000080       0x20 ../build/obj/hsd6500.o
+ .debug_aranges
+                0x000000a0       0x20 ../build/obj/interrupt.o
+ .debug_aranges
+                0x000000c0       0x20 ../build/obj/main.o
+ .debug_aranges
+                0x000000e0       0x20 ../build/obj/port.o
+ .debug_aranges
+                0x00000100       0x20 ../build/obj/spi.o
+ .debug_aranges
+                0x00000120       0x20 ../build/obj/startup.o
+ .debug_aranges
+                0x00000140       0x20 ../build/obj/uja1167.o
+ .debug_aranges
+                0x00000160       0x18 ../build/obj/vnh7040.o
+ .debug_aranges
+                0x00000178       0x20 ../build/obj/wdog.o
+
+.debug_macro    0x00000000     0xf737
+ .debug_macro   0x00000000       0xaa ../build/obj/analogInp.o
+ .debug_macro   0x000000aa      0xa5a ../build/obj/analogInp.o
+ .debug_macro   0x00000b04       0x19 ../build/obj/analogInp.o
+ .debug_macro   0x00000b1d       0x22 ../build/obj/analogInp.o
+ .debug_macro   0x00000b3f       0x8e ../build/obj/analogInp.o
+ .debug_macro   0x00000bcd       0x51 ../build/obj/analogInp.o
+ .debug_macro   0x00000c1e      0x103 ../build/obj/analogInp.o
+ .debug_macro   0x00000d21       0x6a ../build/obj/analogInp.o
+ .debug_macro   0x00000d8b      0x1df ../build/obj/analogInp.o
+ .debug_macro   0x00000f6a       0x22 ../build/obj/analogInp.o
+ .debug_macro   0x00000f8c     0xdf8d ../build/obj/analogInp.o
+ .debug_macro   0x0000ef19       0xa0 ../build/obj/clock.o
+ .debug_macro   0x0000efb9       0x96 ../build/obj/flash.o
+ .debug_macro   0x0000f04f       0x96 ../build/obj/gpio.o
+ .debug_macro   0x0000f0e5       0xd0 ../build/obj/hsd6500.o
+ .debug_macro   0x0000f1b5       0x90 ../build/obj/interrupt.o
+ .debug_macro   0x0000f245      0x104 ../build/obj/main.o
+ .debug_macro   0x0000f349       0xa0 ../build/obj/port.o
+ .debug_macro   0x0000f3e9       0xba ../build/obj/spi.o
+ .debug_macro   0x0000f4a3       0x98 ../build/obj/startup.o
+ .debug_macro   0x0000f53b       0xd0 ../build/obj/uja1167.o
+ .debug_macro   0x0000f60b       0x96 ../build/obj/vnh7040.o
+ .debug_macro   0x0000f6a1       0x96 ../build/obj/wdog.o
+
+.debug_line     0x00000000     0x2142
+ .debug_line    0x00000000      0x2a4 ../build/obj/analogInp.o
+ .debug_line    0x000002a4      0x264 ../build/obj/clock.o
+ .debug_line    0x00000508      0x332 ../build/obj/flash.o
+ .debug_line    0x0000083a      0x258 ../build/obj/gpio.o
+ .debug_line    0x00000a92      0x29a ../build/obj/hsd6500.o
+ .debug_line    0x00000d2c      0x273 ../build/obj/interrupt.o
+ .debug_line    0x00000f9f      0x2ee ../build/obj/main.o
+ .debug_line    0x0000128d      0x25e ../build/obj/port.o
+ .debug_line    0x000014eb      0x33b ../build/obj/spi.o
+ .debug_line    0x00001826      0x25e ../build/obj/startup.o
+ .debug_line    0x00001a84      0x28c ../build/obj/uja1167.o
+ .debug_line    0x00001d10      0x201 ../build/obj/vnh7040.o
+ .debug_line    0x00001f11      0x231 ../build/obj/wdog.o
+
+.debug_str      0x00000000    0x5e295
+ .debug_str     0x00000000    0x5d839 ../build/obj/analogInp.o
+                              0x5d9a6 (size before relaxing)
+ .debug_str     0x0005d839      0x114 ../build/obj/clock.o
+                              0x5d948 (size before relaxing)
+ .debug_str     0x0005d94d      0x163 ../build/obj/flash.o
+                              0x5d98d (size before relaxing)
+ .debug_str     0x0005dab0      0x135 ../build/obj/gpio.o
+                              0x5d95c (size before relaxing)
+ .debug_str     0x0005dbe5       0xc4 ../build/obj/hsd6500.o
+                              0x5da32 (size before relaxing)
+ .debug_str     0x0005dca9       0xc2 ../build/obj/interrupt.o
+                              0x5d8cd (size before relaxing)
+ .debug_str     0x0005dd6b      0x207 ../build/obj/main.o
+                              0x5dc17 (size before relaxing)
+ .debug_str     0x0005df72       0x30 ../build/obj/port.o
+                              0x5d97e (size before relaxing)
+ .debug_str     0x0005dfa2       0x9f ../build/obj/spi.o
+                              0x5db00 (size before relaxing)
+ .debug_str     0x0005e041       0xa2 ../build/obj/startup.o
+                              0x5d8ad (size before relaxing)
+ .debug_str     0x0005e0e3      0x14e ../build/obj/uja1167.o
+                              0x5da2d (size before relaxing)
+ .debug_str     0x0005e231       0x20 ../build/obj/vnh7040.o
+                              0x5d817 (size before relaxing)
+ .debug_str     0x0005e251       0x44 ../build/obj/wdog.o
+                              0x5d857 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ../build/obj/analogInp.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ../build/obj/clock.o
+ .comment       0x00000049       0x4a ../build/obj/flash.o
+ .comment       0x00000049       0x4a ../build/obj/gpio.o
+ .comment       0x00000049       0x4a ../build/obj/hsd6500.o
+ .comment       0x00000049       0x4a ../build/obj/interrupt.o
+ .comment       0x00000049       0x4a ../build/obj/main.o
+ .comment       0x00000049       0x4a ../build/obj/port.o
+ .comment       0x00000049       0x4a ../build/obj/spi.o
+ .comment       0x00000049       0x4a ../build/obj/startup.o
+ .comment       0x00000049       0x4a ../build/obj/uja1167.o
+ .comment       0x00000049       0x4a ../build/obj/vnh7040.o
+ .comment       0x00000049       0x4a ../build/obj/wdog.o
+
+.ARM.attributes
+                0x00000000       0x2e
+ .ARM.attributes
+                0x00000000       0x2e ../build/obj/analogInp.o
+ .ARM.attributes
+                0x0000002e       0x2e ../build/obj/clock.o
+ .ARM.attributes
+                0x0000005c       0x2e ../build/obj/flash.o
+ .ARM.attributes
+                0x0000008a       0x2e ../build/obj/gpio.o
+ .ARM.attributes
+                0x000000b8       0x2e ../build/obj/hsd6500.o
+ .ARM.attributes
+                0x000000e6       0x2e ../build/obj/interrupt.o
+ .ARM.attributes
+                0x00000114       0x2e ../build/obj/main.o
+ .ARM.attributes
+                0x00000142       0x2e ../build/obj/port.o
+ .ARM.attributes
+                0x00000170       0x2e ../build/obj/spi.o
+ .ARM.attributes
+                0x0000019e       0x2e ../build/obj/startup.o
+ .ARM.attributes
+                0x000001cc       0x2e ../build/obj/uja1167.o
+ .ARM.attributes
+                0x000001fa       0x2e ../build/obj/vnh7040.o
+ .ARM.attributes
+                0x00000228       0x2e ../build/obj/wdog.o
+
+.debug_frame    0x00000000      0x8e4
+ .debug_frame   0x00000000       0x78 ../build/obj/analogInp.o
+ .debug_frame   0x00000078       0x58 ../build/obj/clock.o
+ .debug_frame   0x000000d0      0x20c ../build/obj/flash.o
+ .debug_frame   0x000002dc       0xd8 ../build/obj/gpio.o
+ .debug_frame   0x000003b4       0xa0 ../build/obj/hsd6500.o
+ .debug_frame   0x00000454      0x100 ../build/obj/interrupt.o
+ .debug_frame   0x00000554       0x7c ../build/obj/main.o
+ .debug_frame   0x000005d0       0x60 ../build/obj/port.o
+ .debug_frame   0x00000630      0x150 ../build/obj/spi.o
+ .debug_frame   0x00000780       0x54 ../build/obj/startup.o
+ .debug_frame   0x000007d4       0xa0 ../build/obj/uja1167.o
+ .debug_frame   0x00000874       0x70 ../build/obj/wdog.o
